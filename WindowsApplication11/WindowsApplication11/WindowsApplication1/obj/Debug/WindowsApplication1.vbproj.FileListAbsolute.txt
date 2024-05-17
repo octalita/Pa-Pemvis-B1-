@@ -1,0 +1,64 @@
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MSI Laptop\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MSI Laptop\Documents\p\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ACER\Documents\pp\WindowsApplication1 (1)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\bin\Debug\mysql.data.dll
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form9.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\MSI Laptop\Documents\Visual Studio 2012\Projects\PA\WindowsApplication11\WindowsApplication11\WindowsApplication1\bin\Debug\mysql.data.dll
